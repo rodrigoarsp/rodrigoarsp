@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rodrigoarsp@gmail.com**
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Fun fact **😜**
 
 
 <!--
