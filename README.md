@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on (https://github.com/rodrigoarsp)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **JavaScript, HTML, CSS, REACT NATIVE**
 
 - 📫 How to reach me **rodrigoarsp@gmail.com**
 
